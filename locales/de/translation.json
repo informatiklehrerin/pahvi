@@ -1,0 +1,73 @@
+{
+    "welcome": {
+        "name": "Pahvi name",
+        "required": "required",
+        "aboutEmail": "Pahvi edit-url will be sent to this email address. We use the email address only for that unless you check the box below.",
+        "about": "Simple collaborative presentation tool for class rooms.",
+        "more": "Read more from our blog in <a href=\"http://www.opinsys.fi/en/?p=1650\">English</a> or in <a href=\"http://www.opinsys.fi/?p=1685\">Finnish</a>.",
+        "title": "Virtual collages for class rooms",
+        "subscribe": "I want to receive updates about Pahvi to my Email.",
+        "create": "Create new Pahvi!"
+    },
+    "main": {
+        "disconnectError": "Disconnected",
+        "authError": "Your authentication key is bad. Please check the URL bar and reload this page.",
+        "contact": "Please contact us at <a href=\"mailto:dev@opinsys.fi\">dev@opinsys.fi</a> if this issue persists."
+    },
+    "layers": {
+        "help": "Set box layering by dragging them to desired order.",
+        "delete": "Remove box permanently",
+        "hide": "Hide box temporarily"
+    },
+    "toolbox": {
+        "help": "Drag items below to the edit area on left to create new elements.",
+        "desktopHelp": "Drag&amp;Drop images from your computer",
+        "textbox": "Text Box",
+        "plainbox": "Plain Box",
+        "imagebox": "Image Box"
+    },
+    "model": {
+        "text": {
+            "sample": "Double click to edit me.",
+            "name": "Text Box"
+        },
+        "image": {
+            "name": "Image Box"
+        },
+        "plain": {
+            "name": "Plain Box"
+        }
+    },
+    "textbox": {
+        "edit": "edit"
+    },
+    "readonlylink": {
+        "help": "Read only link for this presentation"
+    },
+    "topmenu": {
+        "remote": "Open Remote Controller",
+        "presentation": "Switch to presentation mode",
+        "edit": "Switch to edit mode"
+    },
+    "boxproperties": {
+        "help": "Click on a box to edit it.",
+        "title": "Properties",
+        "image": {
+            "browse": "Browse..."
+        },
+        "backgroundColor": {
+            "title": "Background Color"
+        },
+        "textColor": {
+            "title": "Text Color"
+        },
+        "nameEditor": {
+            "title": "Name"
+        }
+    },
+    "startinfo": {
+        "welcome": "Welcome!",
+        "share": "Use this URL to share this presentation as read only",
+        "admin": "Use this URL to invite other editors"
+    }
+}
